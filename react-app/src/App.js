@@ -6,7 +6,6 @@ import './index.css';
 
 const mainCntnt={
   backgroundColor: "#8132a8",
-
   height: "700px",
   textAlign: "center",
   paddingTop:"100px"
